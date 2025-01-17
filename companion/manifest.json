@@ -5,8 +5,8 @@
 	"description": "Generate timestamps with configurable delay for stream timing",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-streamdelay.git",
-	"bugs": "https://github.com/bitfocus/companion-module-streamdelay/issues",
+	"repository": "git+https://github.com/IonGlue/companion-module-streamdelay.git",
+	"bugs": "https://github.com/IonGlue/companion-module-streamdelay/issues",
 	"maintainers": [
 		{
 			"name": "Companion Project",

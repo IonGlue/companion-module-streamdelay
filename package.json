@@ -12,7 +12,7 @@
 	"prettier": "@companion-module/tools/prettier.config",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-streamdelay.git"
+		"url": "git+https://github.com/IonGlue/companion-module-streamdelay.git"
 	},
 	"engines": {
 		"node": ">=18.12.0"
