@@ -1,0 +1,26 @@
+{
+	"id": "streamdelay",
+	"name": "Stream Delay",
+	"shortname": "streamdelay",
+	"description": "Generate timestamps with configurable delay for stream timing",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-streamdelay.git",
+	"bugs": "https://github.com/bitfocus/companion-module-streamdelay/issues",
+	"maintainers": [
+		{
+			"name": "Companion Project",
+			"email": "info@bitfocus.io"
+		}
+	],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../src/index.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "Generic",
+	"products": ["Stream Delay"],
+	"keywords": ["Stream", "Delay", "Time"]
+}

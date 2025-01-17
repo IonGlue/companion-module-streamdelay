@@ -1,0 +1,20 @@
+{
+	"name": "companion-module-streamdelay",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"format": "prettier -w ."
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@companion-module/base": "~1.4.1"
+	},
+	"prettier": "@companion-module/tools/prettier.config",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-streamdelay.git"
+	},
+	"engines": {
+		"node": ">=18.12.0"
+	}
+}
